@@ -1,0 +1,200 @@
+m.0m0nq	Mickey Rooney	m.0cr3d	Brooklyn	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.012ky3	Michel Legrand	m.05qtj	Paris	people.person.place_of_birth
+m.0149xx	Mstislav Rostropovich	m.01gf5	Baku	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.01l443l	Dave Holland	m.0k5p1	Wolverhampton	people.person.place_of_birth
+m.01wd9lv	Quincy Jones	m.01_d4	Chicago	people.person.place_of_birth
+m.0fb1q	Whoopi Goldberg	m.0cc56	Manhattan	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.0c6qh	Brad Pitt	m.0z9lj	Shawnee	people.person.place_of_birth
+m.0135xb	Joe Jackson	m.01gln9	Burton upon Trent	people.person.place_of_birth
+m.01n44c	Lena Horne	m.04z24x	Bedford-Stuyvesant	people.person.place_of_birth
+m.06jvj7	Lester Holt	m.0l2hf	Marin County	people.person.place_of_birth
+m.03_0p	Isaac Stern	m.06_pnz	Kremenets	people.person.place_of_birth
+m.02pt6k_	Nancy Snyderman	m.06wxw	St. Louis	people.person.place_of_birth
+m.0h0yt	Stephen Fry	m.0n9r8	Hampstead	people.person.place_of_birth
+m.04s6r9	Eddie Gomez	m.0dwfs6	Santurce	music.artist.origin,people.person.place_of_birth
+m.01_x6v	Trey Parker	m.02cl1	Denver	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.02f1c	Dolly Parton	m.0_wrs	Sevierville	music.artist.origin,people.person.place_of_birth
+m.03h_fqv	Tom Waits	m.0r0ss	Pomona	people.person.place_of_birth
+m.01m3x5p	Wynton Marsalis	m.0f2tj	New Orleans	people.person.place_of_birth
+m.03t1sm	Joe Lovano	m.01sn3	Cleveland	people.person.place_of_birth
+m.01vvybv	Meat Loaf	m.0f2rq	Dallas	people.person.place_of_birth
+m.01w0wj	Henryk Szeryng	m.05vjlz	Żelazowa Wola	people.person.place_of_birth
+m.0d9xq	Ella Fitzgerald	m.0mndw	Newport News	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.02qwg	Eric Clapton	m.04r_br	Ripley	people.person.place_of_birth,people.person.places_lived..people.place_lived.location,people.person.spouse_s..people.marriage.location_of_ceremony
+m.01x0yrt	Shania Twain	m.0843m	Windsor	people.person.place_of_birth,people.person.places_lived..people.place_lived.location,music.artist.origin
+m.06r5_q	Lee Ritenour	m.030qb3t	Los Angeles	people.person.place_of_birth
+m.01nhy3	Benny Carter	m.0f94t	Harlem	people.person.place_of_birth
+m.017xm3	Loretta Lynn	m.0cm1sn	Butcher Hollow	music.artist.origin,people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.016kjs	Lil Wayne	m.0f2tj	New Orleans	people.person.places_lived..people.place_lived.location,music.artist.origin,people.person.place_of_birth
+m.01ww2fs	Merle Haggard	m.0q_cp	Oildale	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.0127gn	Vladimir Horowitz	m.02sn34	Kiev	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.05kh_	Orson Welles	m.02h98sm	Kenosha	people.person.place_of_birth
+m.02knd0	Bobby Womack	m.01sn3	Cleveland	people.person.place_of_birth
+m.0pmgz	Paul Anka	m.05ksh	Ottawa	people.person.places_lived..people.place_lived.location,people.person.place_of_birth,music.artist.origin
+m.01304j	Carlos Santana	m.027941k	Autlán, Jalisco	people.person.place_of_birth,music.artist.origin
+m.020fgy	Maurice Jarre	m.0dprg	Lyon	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.01vvyc_	50 Cent	m.0596rb	South Jamaica	people.person.place_of_birth
+m.01xdf5	Stephen Colbert	m.0rh6k	Washington, D.C.	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.06k3_t	Robin Roberts	m.0wq50	Pass Christian	people.person.place_of_birth
+m.03y82t6	Katy Perry	m.0r62v	Santa Barbara	people.person.places_lived..people.place_lived.location,people.person.place_of_birth,music.artist.origin
+m.01vt9p3	Dionne Warwick	m.0xmlp	East Orange	people.person.place_of_birth,people.person.places_lived..people.place_lived.location,music.artist.origin
+m.01wbxnh	Fats Domino	m.0f2tj	New Orleans	people.person.place_of_birth,music.artist.origin
+m.03gn2l	Mitsuko Uchida	m.01wlcm	Atami	people.person.place_of_birth
+m.0h953	Fred Astaire	m.0chrx	Omaha	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.0qjx0	Anne Murray	m.01ktbq	Springhill	people.person.place_of_birth,music.artist.origin,people.person.places_lived..people.place_lived.location
+m.015wc0	Bernard Herrmann	m.02_286	New York City	people.person.place_of_birth
+m.0585m8m	Gerhard Oppitz	m.02q78n7	Frauenau	people.person.place_of_birth
+m.0147dk	Will Smith	m.0dclg	Philadelphia	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.021162	Mel Tormé	m.01_d4	Chicago	music.artist.origin,people.person.place_of_birth
+m.04cl1	Kelsey Grammer	m.028y82	Saint Thomas	people.person.place_of_birth
+m.0f0y8	John Coltrane	m.0yk0y	Hamlet	people.person.place_of_birth,music.artist.origin
+m.02qsjt	Buddy Guy	m.0cw4xs	Lettsworth	people.person.place_of_birth,music.artist.origin
+m.044f7	Jim Henson	m.0ws0h	Greenville	people.person.place_of_birth
+m.030wd8	Emil Gilels	m.0ffmp	Odessa	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.01r9fv	Pat Benatar	m.02372m	Greenpoint	people.person.place_of_birth
+m.09r8l	Waylon Jennings	m.0105dt	Littlefield	people.person.place_of_birth,music.artist.origin
+m.01w7nww	Erykah Badu	m.0f2rq	Dallas	people.person.place_of_birth
+m.01rlq_	Lightnin' Hopkins	m.0105kq	Centerville	people.person.place_of_birth
+m.016_mj	Chris Rock	m.013l1h	Andrews	people.person.place_of_birth
+m.046_v	Jack Kirby	m.02_286	New York City	people.person.place_of_birth
+m.029b9k	Dinah Shore	m.0bwtj	Winchester	people.person.place_of_birth
+m.03f3yfj	Brandy Norwood	m.0wrbr	McComb	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.01jxxvc	Dick Hyman	m.02_286	New York City	people.person.place_of_birth,music.artist.origin
+m.029v19	Julian Bream	m.04jpl	London	people.person.place_of_birth
+m.031c2r	Rob Paulsen	m.02dtg	Detroit	people.person.place_of_birth
+m.013wwd	Art Tatum	m.07l5z	Toledo	people.person.place_of_birth,people.person.places_lived..people.place_lived.location,music.artist.origin
+m.01dq69	José Feliciano	m.01cvwc	Lares	music.artist.origin,people.person.place_of_birth
+m.0jg34	Andrés Segovia	m.08gw6f	Linares, Jaén	people.person.place_of_birth
+m.01vrz41	Elton John	m.0nbw2	Pinner	people.person.place_of_birth,music.artist.origin,people.person.places_lived..people.place_lived.location
+m.01rxtkw	Ernie Watts	m.0fwc0	Norfolk	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.01l837	Asha Bhosle	m.02npmd	Sangli	people.person.place_of_birth
+m.06k02	Ryuichi Sakamoto	m.07dfk	Tokyo	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.012_6c	Smokey Robinson	m.02dtg	Detroit	music.artist.origin,people.person.place_of_birth
+m.01htxr	Tony Bennett	m.01qcx_	Astoria	people.person.place_of_birth
+m.015mrk	Lauryn Hill	m.0207496	South Orange	music.artist.origin,people.person.place_of_birth
+m.0lk90	Hilary Duff	m.03l2n	Houston	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.01c8v0	Mark Knopfler	m.0hyxv	Glasgow	people.person.places_lived..people.place_lived.location,people.person.place_of_birth,music.artist.origin
+m.01wcp_g	John Legend	m.0ytph	Springfield	people.person.place_of_birth,music.artist.origin,people.person.places_lived..people.place_lived.location
+m.02p65p	Don Cheadle	m.04f_d	Kansas City	people.person.place_of_birth
+m.05cpzw	Larry Carlton	m.0r111	Torrance	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.0m2l9	Neil Young	m.0h7h6	Toronto	people.person.place_of_birth,music.artist.origin,people.person.places_lived..people.place_lived.location
+m.0ds41	Martha Argerich	m.01ly5m	Buenos Aires	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.01l8slj	Plácido Domingo	m.0fcqmy	Retiro	people.person.place_of_birth
+m.0gdk_3k	Derek Lea	m.0cxgc	Surrey	people.person.place_of_birth
+m.013qvn	Dean Martin	m.0yz30	Steubenville	people.person.place_of_birth
+m.09fb5	Jack Nicholson	m.0xqbb	Neptune City	people.person.place_of_birth
+m.01cwhp	Celine Dion	m.04f5m5	Charlemagne	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.0k7pf	George Martin	m.023nrh	HM Prison Holloway	people.person.place_of_birth
+m.0bwh6	Clint Eastwood	m.0d6lp	San Francisco	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.01w58n3	Gloria Estefan	m.0d6hn	Havana	people.person.place_of_birth
+m.0f_y9	John Denver	m.06jdl	Roswell	people.person.place_of_birth
+m.01j7rd	Jon Stewart	m.02_286	New York City	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.01s1zk	Wyclef Jean	m.0268dth	Croix-des-Bouquets	people.person.place_of_birth
+m.055c8	Morgan Freeman	m.0c_m3	Memphis	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.01n1gc	Ben Stein	m.0rh6k	Washington, D.C.	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.0pbxgd0	Chris O'Hara	m.01531	The Bronx	people.person.place_of_birth
+m.0166_q	Mahalia Jackson	m.0f2tj	New Orleans	people.person.place_of_birth
+m.0mp4c	Charles Aznavour	m.05qtj	Paris	people.person.places_lived..people.place_lived.location,people.person.place_of_birth,music.artist.origin
+m.0h32q	Vanessa Redgrave	m.0nqv1	Greenwich	people.person.place_of_birth
+m.01sspy	Gerry Mulligan	m.033mfh	Queens Village	people.person.place_of_birth
+m.01m3b1t	Terence Blanchard	m.0f2tj	New Orleans	music.artist.origin,people.person.place_of_birth
+m.02vr7	Elvis Costello	m.0nbrp	Paddington	people.person.place_of_birth
+m.0h1wtk	James Lew	m.0r59v	Escalon	people.person.place_of_birth
+m.06h2w	Ron Carter	m.0nr3p	Ferndale	people.person.place_of_birth,music.artist.origin
+m.01hgwkr	k.d. lang	m.0nlh7	Edmonton	people.person.place_of_birth,music.artist.origin
+m.016t00	John Mellencamp	m.0smkg	Seymour	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.01mxt_	Steve Vai	m.0y240	Carle Place	people.person.place_of_birth
+m.01vvyfh	George Michael	m.01snym	East Finchley	people.person.place_of_birth
+m.0gwnpr7	Rowley Irlam	m.0kc40	Guildford	people.person.place_of_birth
+m.013423	Carole King	m.0cc56	Manhattan	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.01k9wl	Art Blakey	m.068p2	Pittsburgh	people.person.place_of_birth,music.artist.origin
+m.01tbm7	Jascha Heifetz	m.07_kq	Vilnius	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.0911kl	Randy Brecker	m.0_6rz	Cheltenham Township	people.person.place_of_birth
+m.02pbrn	McCoy Tyner	m.0dclg	Philadelphia	music.artist.origin,people.person.place_of_birth
+m.015xp4	Etta James	m.030qb3t	Los Angeles	people.person.places_lived..people.place_lived.location,music.artist.origin,people.person.place_of_birth
+m.0127s7	Christina Aguilera	m.0y62n	Staten Island	people.person.place_of_birth
+m.01vrncs	Bob Dylan	m.0h1k6	Duluth	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.01jrvr6	Cole Porter	m.0sntl	Peru	people.deceased_person.place_of_burial,people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.0pnf3	Carl Reiner	m.01531	The Bronx	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.02k2s_	Jack DeJohnette	m.01_d4	Chicago	people.person.place_of_birth
+m.06c0j	Ronald Reagan	m.0sj7b	Tampico	people.person.place_of_birth
+m.0721cy	Sam Simon	m.01n7q	California	people.person.place_of_birth
+m.0bkf4	Bob Marley	m.04zvqpz	Nine Mile, Jamaica	people.person.place_of_birth
+m.04sry	Martin Scorsese	m.0ccvx	Queens	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.0g476	Liza Minnelli	m.0f2wj	Hollywood	people.person.place_of_birth
+m.0tj9	Amitabh Bachchan	m.020skc	Allahabad	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.01x0wx7	Mikhail Pletnev	m.0vgt3	Arkhangelsk	people.person.place_of_birth
+m.01s21dg	John Mayer	m.0167q3	Bridgeport	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.01vsy3q	Jimi Hendrix	m.0d9jr	Seattle	music.artist.origin,people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.01mff8l	Willie Dixon	m.0wr_s	Vicksburg	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.01vwllw	Susan Sarandon	m.01qcvw	Jackson Heights	people.person.place_of_birth
+m.0bxtg	Tom Hanks	m.0qymv	Concord	people.person.place_of_birth
+m.01wbgdv	Chaka Khan	m.01_d4	Chicago	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.0lgsq	Melissa Etheridge	m.0qbpy	Leavenworth	music.artist.origin,people.person.place_of_birth
+m.0136p1	Donna Summer	m.01cx_	Boston	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.0165ys	Celia Cruz	m.0d6hn	Havana	people.person.place_of_birth
+m.012cnn	Sinéad O'Connor	m.01fxbs	Glenageary	people.person.place_of_birth
+m.0djg9	Aaron Copland	m.0cr3d	Brooklyn	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.04_nj4	András Schiff	m.095w_	Budapest	people.person.place_of_birth
+m.02lvtb	Andy Williams	m.0t2y8	Wall Lake	music.artist.origin,people.person.place_of_birth
+m.0gcxg_c	John Cenatiempo	m.02_286	New York City	people.person.place_of_birth
+m.0407f	James Brown	m.0_kmq	Barnwell	people.person.place_of_birth
+m.0gbwp	Janet Jackson	m.03b12	Gary	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.01k_mc	Luther Vandross	m.0cc56	Manhattan	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.05jm7	Neil Gaiman	m.022mpz	Portchester	people.person.place_of_birth
+m.01ky2h	Sonny Rollins	m.0f94t	Harlem	people.person.place_of_birth
+m.02_128	Kenny G	m.0d9jr	Seattle	people.person.places_lived..people.place_lived.location,people.person.place_of_birth,music.artist.origin
+m.053yx	Miles Davis	m.0sc6p	Alton	people.person.place_of_birth
+m.0h0wc	Meryl Streep	m.0xt3t	Summit	people.person.place_of_birth
+m.0kzy0	Brian Wilson	m.0r0f7	Inglewood	people.person.place_of_birth
+m.01817f	Carly Simon	m.02_286	New York City	people.person.place_of_birth
+m.01lvcs1	Marcus Miller	m.0cr3d	Brooklyn	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.0p7sj	Carl Perkins	m.0_vpd	Tiptonville	music.artist.origin,people.person.place_of_birth
+m.03975z	George Fenton	m.04jpl	London	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.017mf4	Béla Fleck	m.02_286	New York City	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.02flsp	Joe Henderson	m.0yshw	Lima	people.person.place_of_birth,people.person.places_lived..people.place_lived.location,music.artist.origin
+m.0dl567	Taylor Swift	m.0zlgm	Reading	people.person.place_of_birth
+m.067_8z	Stephanie Finochio	m.04n3l	Long Island	people.person.place_of_birth
+m.0164fj	Louis Jordan	m.0qvy0	Brinkley	people.person.place_of_birth
+m.0ddkf	Paul Simon	m.0hptm	Newark	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.0161c2	Avril Lavigne	m.018dhx	Belleville	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.0hv49	Count Basie	m.0xqf3	Red Bank	music.artist.origin,people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.077rj	Stephen Sondheim	m.02_286	New York City	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.0gy6z9	Mark Wahlberg	m.02s838	Dorchester	people.person.place_of_birth
+m.01cqfm	André Previn	m.0156q	Berlin	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.0dzf_	Robin Williams	m.01_d4	Chicago	people.person.place_of_birth
+m.02mslq	David Sanborn	m.0n1rj	Tampa	people.person.place_of_birth,music.artist.origin
+m.0kvrb	Michael Nyman	m.0nc8w	Stratford, London	people.person.place_of_birth
+m.014488	Harry Belafonte	m.0f94t	Harlem	people.person.place_of_birth
+m.03h_0w	Anne-Sophie Mutter	m.08f87q	Rheinfelden	people.person.place_of_birth
+m.084m3	William Shatner	m.036kgv	Côte Saint-Luc	people.person.place_of_birth
+m.013w7j	Sean Combs	m.0f94t	Harlem	people.person.place_of_birth
+m.0234np	Joshua Bell	m.0snty	Bloomington	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.011ld9	Sviatoslav Richter	m.03_b99	Zhytomyr	people.person.place_of_birth
+m.01d67x	Tammy Wynette	m.0ngfs	Itawamba County	people.person.place_of_birth,people.person.places_lived..people.place_lived.location,music.artist.origin
+m.03d2k	George Benson	m.068p2	Pittsburgh	people.person.place_of_birth
+m.011vx3	Pete Seeger	m.0cc56	Manhattan	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.081nh	Walt Disney	m.04sgjt	Hermosa	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.02bh9	Danny Elfman	m.030qb3t	Los Angeles	people.person.place_of_birth
+m.06m61	Roy Orbison	m.010bxw	Vernon	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.07pzc	Tupac Shakur	m.02cx_2	East Harlem	people.person.place_of_birth
+m.01bpc9	Steve Earle	m.04y3dj	Fort Monroe	people.person.place_of_birth
+m.02cyfz	James Horner	m.030qb3t	Los Angeles	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.0hcpk	Glenn Gould	m.0h7h6	Toronto	people.person.places_lived..people.place_lived.location,people.deceased_person.place_of_death,people.person.place_of_birth
+m.0154qm	Cate Blanchett	m.0chgzm	Melbourne	people.person.place_of_birth
+m.016z1t	Glen Campbell	m.0qwbh	Delight	people.person.place_of_birth
+m.02kz_	Ernest Hemingway	m.0s5cg	Oak Park	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.028q6	Dave Brubeck	m.0qymv	Concord	music.artist.origin,people.person.place_of_birth
+m.016sp_	Dwight Yoakam	m.0thsw	Pikeville	people.person.place_of_birth,music.artist.origin
+m.0jfx1	Johnny Depp	m.0pqz3	Owensboro	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.01v_pj6	Fatboy Slim	m.0214m4	Bromley	people.person.place_of_birth,music.artist.origin
+m.050z2	Mike Oldfield	m.0b_yz	Reading	people.person.place_of_birth,music.artist.origin,people.person.places_lived..people.place_lived.location
+m.0fpjd_g	Chick Corea	m.0t_wz	Chelsea	people.person.place_of_birth,music.artist.origin
+m.015pxr	Ricky Gervais	m.0b_yz	Reading	people.person.places_lived..people.place_lived.location,people.person.place_of_birth
+m.03f0fnk	Lou Reed	m.0cr3d	Brooklyn	people.person.place_of_birth,music.artist.origin,people.person.places_lived..people.place_lived.location
+m.0bl2g	Dustin Hoffman	m.030qb3t	Los Angeles	people.person.place_of_birth
+m.01srwb	Stan Getz	m.0dclg	Philadelphia	people.person.place_of_birth,music.artist.origin
+m.01n8gr	Kenny Rogers	m.03l2n	Houston	people.person.place_of_birth,music.artist.origin
+m.09qr6	Robbie Williams	m.017cjb	Stoke-on-Trent	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
+m.03j3ghh	Otis Redding	m.0rzby	Dawson	people.person.place_of_birth
+m.0jt90f5	Stephen King	m.0c4kv	Portland	people.person.place_of_birth,people.person.places_lived..people.place_lived.location
